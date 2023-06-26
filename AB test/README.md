@@ -1,4 +1,4 @@
-# A/B-тестирование
+# A/B-тестирование внедрения новой рекомендательной системы
 [ipynb](https://github.com/vadimstupakov/Portfolio/blob/21ff6eedef0400eb3abbc9d97811e600e267fb34/AB%20test/AB.ipynb)
 
 # Описание проекта
