@@ -1,5 +1,5 @@
 # Проверка гипотез по увеличению выручки в интернет-магазине
-[ipynb](https://github.com/vadimstupakov/Portfolio/blob/76ff88ccf0d000628eee6bc2fe61d87464b13c69/User%20Behaviour/User%20Behavior.ipynb)
+[ipynb](https://github.com/vadimstupakov/yandex_practicum/blob/08fc881a585f39089ce38dde3856f1c69aa665a4/User%20Behaviour/User%20Behaviour%20(1).ipynb)
 # Описание проекта
 Проведена приоритизация гипотез по фреймворкам ICE и RICE. Затем провел анализ
 результатов A/B-теста, построил графики кумулятивной выручки, среднего чека,
